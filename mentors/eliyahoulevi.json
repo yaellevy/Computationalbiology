@@ -1,0 +1,40 @@
+{
+    "name": "Eliyahou Levy",
+    "github": "Eliyahou",
+    "devto": "Eliyahou",
+    "github_page": true,
+    "posts": [
+        {
+            "url": "https://dev.to/eliyahou/eliyahou-levi-post-20fh"
+        },
+        {
+            "url": "https://dev.to/eliyahou/post-2-1clk"
+        },
+        { 
+            "url": "https://dev.to/eliyahou/session-3-create-github-site-o2f"
+        },
+        {
+            "url": "https://dev.to/eliyahou/4-follows-github-project-and-fixing-lacks-4pe3"
+        },
+        {
+            "url": "https://dev.to/eliyahou/docker-images-31dj"
+        },
+        {
+            "url": "https://dev.to/eliyahou/git-scm-on-windows-github-contribution-workflow-g72"
+        },
+        {
+              "url": "https://dev.to/eliyahou/ci-countinous-integration-177c"
+        },
+        {
+              "url": "https://dev.to/eliyahou/ex5-track-projects-3lnh"
+        },
+        {
+              "url": "https://dev.to/eliyahou/session-11-testing-with-pytest-180i"
+        }
+        
+    ],
+    "projects": [
+        "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
+        "https://github.com/FredAdiv/Coursera_Capstone"
+    ]
+}
