@@ -10,4 +10,5 @@
 | 4176  |30   | 330  | 
 ### 2.
 ### we get all the features that are in genbank file and their amount
+###  our CI checkes that the file gb is valid by checking that 'CDS' and 'gene' are keys of the gb file
 
