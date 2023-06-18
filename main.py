@@ -199,8 +199,8 @@ class Genes():
 
 
 
-a=Genes()
-print(a.compareGenesCds(11))
+#a=Genes()
+#print(a.compareGenesCds(11))
 #print('mean of %AT in Genes that coding to CDS:',a.getMeanValue(a.countGenesAT(a.list_of_gene_cds)))#mean of %AT in Genes that coding to CDS
 #print('mean of %AT in all Genom:',a.countAT(a.sequence))#mean %AT in all Genom
 #a.histogram(a.countGenesAT(a.list_of_gene_cds))
