@@ -1,0 +1,44 @@
+{
+    "name": "Yael Levi",
+    "github": "yaellevy",
+    "devto": "yaellevy",
+    "github_page": true,
+    "posts": [
+        {
+            "url": "https://dev.to/yaellevy/my-new-devto-post-5bj1"
+        },
+        {
+            "url": "https://dev.to/yaellevy/lesson-2-15l"
+        },
+        {
+            "url": "https://dev.to/yaellevy/session-3-create-github-pages-markdown-mpo"
+        },
+        {
+            "url": "https://dev.to/yaellevy/ex-4-familiarity-with-github-projects-pr-for-fixing-1cfj"
+        },
+        {
+            "url": "https://dev.to/yaellevy/docker-37dg"
+        },
+        {
+            "url" : "https://dev.to/yaellevy/git-scm-on-windows-github-contribution-workflow-19li"
+        },
+        {
+            "url" : "https://dev.to/yaellevy/ci-workflowsactions-39j0"
+        },
+        {
+            "url" : "https://dev.to/yaellevy/assignment-5-pr-to-fix-projects-27kg"
+        },
+        {
+            "url" : "https://dev.to/yaellevy/pytest-unit-test-in-python-8k4"
+        }
+        
+    ],
+    "projects": [
+        "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
+        "https://github.com/FredAdiv/Coursera_Capstone",
+        "https://github.com/eliyahou",
+        "https://github.com/Messi-Q/Smart-Contract-Dataset",
+        "https://github.com/Messi-Q/GNNSCVulDetector",
+        "https://github.com/kadenzipfel/smart-contract-vulnerabilities"
+    ]
+}
