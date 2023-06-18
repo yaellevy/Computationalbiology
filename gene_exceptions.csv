@@ -1,0 +1,4 @@
+gene,error
+nrdFB,Sequence length 1798 is not a multiple of three
+nrdEB,Extra in frame stop codon 'TGA' found.
+prfB,Sequence length 1102 is not a multiple of three
