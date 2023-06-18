@@ -1,0 +1,13 @@
+biopython
+Bio
+pandas
+matplotlib
+seaborn
+numpy
+xlrd
+tqdm
+openpyxl
+
+
+
+
